@@ -1,0 +1,159 @@
+[08-Mar-2021 13:57:40 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[08-Mar-2021 14:38:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[08-Mar-2021 14:43:06 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[08-Mar-2021 14:45:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[08-Mar-2021 14:45:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 12:26:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 12:32:07 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 12:32:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 12:33:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 12:34:18 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 12:34:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 13:54:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Using $this when not in object context in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 19
+[09-Mar-2021 13:56:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Using $this when not in object context in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 16
+[09-Mar-2021 13:57:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 44
+[09-Mar-2021 13:57:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 13:57:41 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 44
+[09-Mar-2021 13:57:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 13:57:45 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 44
+[09-Mar-2021 13:57:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 13:58:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(66): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 14:05:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 17:09:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 46
+[09-Mar-2021 17:09:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 46
+[09-Mar-2021 17:11:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 46
+[09-Mar-2021 17:13:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 52
+[09-Mar-2021 17:14:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 52
+[09-Mar-2021 17:24:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 52
+[09-Mar-2021 14:27:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 17:31:17 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting function (T_FUNCTION) in /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php on line 47
+[09-Mar-2021 14:31:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 14:32:17 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[09-Mar-2021 14:33:16 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
+[13-Mar-2021 12:36:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php:2)' in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php:272
+Stack trace:
+#0 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1056): FPDF->Error('Some data has a...')
+#1 /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/c16292/public_html/cejupeba/desarrollo/reportes/recibo_individual.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/c16292/public_html/cejupeba/desarrollo/reportes/fpdf.php on line 272
